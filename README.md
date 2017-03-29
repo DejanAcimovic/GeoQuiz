@@ -1,3 +1,3 @@
 # GeoQuiz
 
-Very simple android application.
+Very simple Android application.
